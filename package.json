@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/colecmc/formost#readme",
   "dependencies": {
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "webpack": "^4.28.1"
   },
   "devDependencies": {
